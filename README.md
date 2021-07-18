@@ -1,3 +1,5 @@
+[![Python Build](https://github.com/shiva-s30/265460-Python-MiniProject/actions/workflows/python%20build.yml/badge.svg)](https://github.com/shiva-s30/265460-Python-MiniProject/actions/workflows/python%20build.yml)
+
 # Prediction of Car Sales using Regression Algorithm
 The Project aims at predicting the price of used cars by building a Machine Learning model using Linear Regression algorithm.
 
