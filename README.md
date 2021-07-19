@@ -3,6 +3,21 @@
 # Prediction of Car Sales using Regression Algorithm
 The Project aims at predicting the price of used cars by building a Machine Learning model using Linear Regression algorithm.
 
+## Steps to run the files:
+1. Make sure to create a virtual env with the required packages mentioned [here](https://github.com/shiva-s30/265460-Python-MiniProject/tree/main/src) .
+2. To run the python file, In the `src` directory run the command:
+```sh
+python regression_ml_pyt.py
+```
+3.  To run Pytest on the test file, In the `tests` directory run the command:
+```sh
+pytest test_reg_ml.py
+```
+4. To run Pylint and verify its score, In the `src` directory run the command:
+```sh
+pylint regression_ml_pyt.py`
+```
+
 ## About the Dataset:
 The dataset contains around 300 entries made during the period 1992 - 2020.  The various attributes present in the dataset are:
 
