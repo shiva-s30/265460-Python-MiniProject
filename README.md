@@ -15,7 +15,7 @@ pytest test_reg_ml.py
 ```
 4. To run Pylint and verify its score, In the `src` directory run the command:
 ```sh
-pylint regression_ml_pyt.py`
+pylint regression_ml_pyt.py
 ```
 
 ## About the Dataset:
