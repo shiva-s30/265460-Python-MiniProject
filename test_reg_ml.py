@@ -7,7 +7,7 @@ from sklearn import metrics
 from sklearn.metrics import r2_score
 
 
-data_frame = pd.read_csv('../Dataset/car data.csv')
+data_frame = pd.read_csv('/Dataset/car data.csv')
 test_frame = data_frame
 
 def test_instance_of_dataframe():
